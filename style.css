@@ -26,6 +26,7 @@ body{
 .logo{
     width: 278px;
     padding-left: 13px;
+    max-height: 20%;
 }
 
 .logo img{
@@ -84,6 +85,10 @@ body{
 @media(max-width: 1200px){
     .main-content{
         max-height: 50%;
+    }
+
+    .main-content{
+        margin-top: 0px;
     }
 }
 
