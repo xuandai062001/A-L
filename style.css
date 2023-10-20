@@ -7,6 +7,7 @@ body{
 .main{
     width: 100%;
     height: 100vh;
+    min-height: 100vh;
     background: #f6e299;
     position: relative;
     overflow: hidden;
@@ -105,6 +106,7 @@ body{
 
     .logo{
         width: 200px;
+        margin: 0 auto;
     }
 
     .main-content{
